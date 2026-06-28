@@ -1,1 +1,1 @@
-Message from both branches resolved
+Change from main
